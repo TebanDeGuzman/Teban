@@ -30,9 +30,9 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    backdrop-filter: blur(10px);
-    border-radius: 15px;
-    min-height: 15rem;
+    backdrop-filter: blur(0px);
+    border-radius: 0px;
+    min-height: 0rem;
     padding: 35px 15px;
     width: 100%;
     max-width: 650px;
@@ -493,3 +493,4 @@ body {
         height: 4px;
     }
 }
+
